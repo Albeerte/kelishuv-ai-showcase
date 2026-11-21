@@ -2,23 +2,41 @@
 
 Özbekiston uçun mediatsiya, huquqiy yönaltiriş va kelişuvni rasmiylaştiriş platformasi.
 
+## Xakaton taqdimoti
+
+[PowerPoint’ni yuklaş](presentations/Kelishuv-hackathon-final.pptx) · [PDF’ni köriş](presentations/Kelishuv-hackathon-final.pdf)
+
+Yakuniy taqdimotning 12 ta slaydi quyida ketma-ket berilgan.
+
+![KELIŞUV AI taqdimoti, 1-slayd](presentations/submission/slide-01.png)
+
+![KELIŞUV AI taqdimoti, 2-slayd](presentations/submission/slide-02.png)
+
+![KELIŞUV AI taqdimoti, 3-slayd](presentations/submission/slide-03.png)
+
+![KELIŞUV AI taqdimoti, 4-slayd](presentations/submission/slide-04.png)
+
+![KELIŞUV AI taqdimoti, 5-slayd](presentations/submission/slide-05.png)
+
+![KELIŞUV AI taqdimoti, 6-slayd](presentations/submission/slide-06.png)
+
+![KELIŞUV AI taqdimoti, 7-slayd](presentations/submission/slide-07.png)
+
+![KELIŞUV AI taqdimoti, 8-slayd](presentations/submission/slide-08.png)
+
+![KELIŞUV AI taqdimoti, 9-slayd](presentations/submission/slide-09.png)
+
+![KELIŞUV AI taqdimoti, 10-slayd](presentations/submission/slide-10.png)
+
+![KELIŞUV AI taqdimoti, 11-slayd](presentations/submission/slide-11.png)
+
+![KELIŞUV AI taqdimoti, 12-slayd](presentations/submission/slide-12.png)
+
 ![Kelişuv taqdimot sahifasi](assets/landing.png)
 
 [Rasmli PDFni yuklaş](Kelishuv-platforma.pdf) · [Namoyişni oçiş](https://armadillo-writing-sanctuary.ngrok-free.dev/welcome) · [Arxitektura rasmi](assets/architecture.png)
 
-Muallif va loyiha egasi **Abduxoliq Solijonov**. 2026-yil 21-noyabr holati. Uşbu ommaviy repozitoriy loyiha taqdimoti, interfeys rasmlari va arxitektura materiallarini jamlaydi. Dastur manba kodi private repozitoriyda saqlanadi. Namoyiş havolasi kompyuter va tunnel işlayotgan paytda faol.
-
-## 3 daqiqalik final taqdimoti
-
-[PowerPoint’ni yuklaş](presentations/Kelishuv-LexHackathon-2026.pptx) · [PDF körinişi](presentations/Kelishuv-LexHackathon-2026.pdf) · [Biznes modeli va manbalar](docs/PITCH_EVIDENCE.md)
-
-![Kelişuvning sakkiz slaydli taqdimoti](assets/pitch-overview.png)
-
-Sakkizta minimal slaydda mahsulot, uçta muammo, TAM/SAM/SOM, mahalliy va xalqaro yeçimlar, 15% model, bir iş iqtisodi, KPI hamda jamoa yoritilgan. 180 soniyaga möljallangan özbekça nutq PowerPoint izohlarida berilgan. Xakatonning taqdim etilgan qoidalari finalda 3 daqiqa nutq, 2 daqiqa demo va 2 daqiqa savol-javobni belgilaydi.
-
-Loyiha egasining ma’lumotiga köra, qariyb 10 mediator bilan dastlabki muammo suhbatlari ötkazilgan. Bozor dalillari Oliy sud va Adliya vazirligining manbalariga tayangan. TAM/SAM böyiça hisob usuli, tekşiriladigan farazlar va pilot maqsadlari manbalar hujjatida izohlangan.
-
-Mediator öz xizmat narxini belgilaydi. Boşlanğiç model 15% platforma uluşini hisoblaydi. Namunaviy 800 000 sömlik gonorardan 120 000 söm tuşum, 25 000 söm özgaruvçan xarajat farazida 95 000 söm marjinal foyda çiqadi. Pilot narx va xarajat farazlarini tekşiradi.
+Muallif va loyiha egasi **Abduxoliq Solijonov**. 2026-yil 21-noyabr holati. Uşbu ommaviy repozitoriy loyiha taqdimoti, interfeys rasmlari va arxitektura materiallarini jamlaydi. Dastur manba kodi [oçiq repozitoriyda](https://github.com/Albeerte/kelishuv-ai) saqlanadi. Namoyiş havolasi kompyuter va tunnel işlayotgan paytda faol.
 
 ## Platforma nima qiladi
 
@@ -138,8 +156,8 @@ Natijalar şu loyiha versiyasi va körsatilgan avtomatlaştirilgan tekşiruvlar 
 
 ## Materiallar
 
-- [3 daqiqalik PowerPoint](presentations/Kelishuv-LexHackathon-2026.pptx)
-- [3 daqiqalik taqdimot PDF](presentations/Kelishuv-LexHackathon-2026.pdf)
+- [Yakuniy PowerPoint](presentations/Kelishuv-hackathon-final.pptx)
+- [Yakuniy taqdimot PDF](presentations/Kelishuv-hackathon-final.pdf)
 - [Biznes modeli va raqobat dalillari](docs/PITCH_EVIDENCE.md)
 - [8 sahifali rasmli PDF](Kelishuv-platforma.pdf)
 - [Arxitektura rasmi](assets/architecture.png)
@@ -147,4 +165,4 @@ Natijalar şu loyiha versiyasi va körsatilgan avtomatlaştirilgan tekşiruvlar 
 - [Foydalanuvçi jarayoni](assets/workflow.png)
 - [Barça ekran rasmlari](assets/)
 
-Lokal dastur `http://localhost:2345` manzilida işlaydi. Kodga kiriş loyiha egasi orqali beriladi.
+Lokal dastur `http://localhost:2345` manzilida işlaydi. Manba kodini [GitHub’dan köriş mumkin](https://github.com/Albeerte/kelishuv-ai).
