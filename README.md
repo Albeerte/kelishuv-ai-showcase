@@ -4,11 +4,11 @@
 
 ## Xakaton taqdimoti
 
-[Yakuniy taqdimot PDF](presentations/kelishuv.pdf)
+[PDFni ochish yoki yuklab olish](https://raw.githubusercontent.com/Albeerte/kelishuv-ai-showcase/codex/initial-release/presentations/kelishuv.pdf)
 
 [Avvalgi taqdimot PDF](presentations/Kelishuv-hackathon-final.pdf)
 
-Quyidagi 12 ta slayd avvalgi taqdimotdan olingan.
+Quyida yakuniy taqdimotning 12 ta slaydi keltirilgan.
 
 ![KELIŞUV AI taqdimoti, 1-slayd](presentations/submission/slide-01.png)
 
