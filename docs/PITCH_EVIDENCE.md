@@ -1,120 +1,120 @@
-# Kelishuv biznes modeli va taqdimot dalillari
+# Kelişuv biznes modeli va taqdimot dalillari
 
-2026-yil 21-noyabr holati. Kelishuv fuqarolar, biznes va professional mediatorlarga nizoni masofadan ko‘rib chiqish, hujjat tayyorlash va kelishuv bajarilishini kuzatish uchun ish maydoni beradi.
+2026-yil 21-noyabr holati. Kelişuv fuqarolar, biznes va professional mediatorlarga nizoni masofadan körib çiqiş, hujjat tayyorlaş va kelişuv bajarilişini kuzatiş uçun iş maydoni beradi.
 
-## Xakaton yo‘nalishi va himoya formati
+## Xakaton yönalişi va himoya formati
 
-Loyiha “Huquqiy xizmatlarni ko‘rsatish” trekidagi mediatsiyadan foydalanish muammosiga qaratilgan. Foydalanuvchi taqdim etgan “Treklar - Muammolari.docx” ushbu ehtiyojni belgilaydi. “Презентация Правил хакатона (1).pptx” faylining 13-slaydida final uchun 3 daqiqa taqdimot, 2 daqiqa MVP demo va 2 daqiqa savol-javob ajratilgan.
+Loyiha “Huquqiy xizmatlarni körsatiş” trekidagi mediatsiyadan foydalaniş muammosiga qaratilgan. Foydalanuvçi taqdim etgan “Treklar - Muammolari.docx” uşbu ehtiyojni belgilaydi. “Презентация Правил хакатона (1).pptx” faylining 13-slaydida final uçun 3 daqiqa taqdimot, 2 daqiqa MVP demo va 2 daqiqa savol-javob ajratilgan.
 
 ## Mahsulot va muammo
 
-Fuqaro nizoni yozadi, dalillarni yuklaydi va ikkinchi tarafni shaxsiy havola orqali taklif qiladi. AI Lex.uz manbalari bilan dastlabki tahlilni tayyorlaydi. Taraflar roziligi bilan mediator ishni qabul qiladi, umumiy yoki maxfiy muloqot olib boradi va yozma kelishuv ustida ishlaydi.
+Fuqaro nizoni yozadi, dalillarni yuklaydi va ikkinçi tarafni şaxsiy havola orqali taklif qiladi. AI Lex.uz manbalari bilan dastlabki tahlilni tayyorlaydi. Taraflar roziligi bilan mediator işni qabul qiladi, umumiy yoki maxfiy muloqot olib boradi va yozma kelişuv ustida işlaydi.
 
-- Fuqaro mediatsiya imkoniyati va mediatorga murojaat qilish yo‘lini tushunishi kerak.
-- Uchrashuv, safar va hujjat almashinuvi mediator hamda taraflarning vaqtini oladi. Masofaviy xizmat hududlardan murojaat qilishni yengillashtiradi.
-- Mediatsiyaga mos nizo uchun sudgacha kelishuv yo‘lini tashkil etish kerak.
+- Fuqaro mediatsiya imkoniyati va mediatorga murojaat qiliş yölini tuşunişi kerak.
+- Uçraşuv, safar va hujjat almaşinuvi mediator hamda taraflarning vaqtini oladi. Masofaviy xizmat hududlardan murojaat qilişni yengillaştiradi.
+- Mediatsiyaga mos nizo uçun sudgaça kelişuv yölini taşkil etiş kerak.
 
-Loyiha egasining ma’lumotiga ko‘ra, qariyb 10 mediator bilan dastlabki suhbat o‘tkazilgan va shu muammolar takrorlangan. Bu sifatli dastlabki kuzatuvdir. Intervyu bayonnomalari va hududlar kesimidagi tasdiq pilot dalillariga qo‘shiladi.
+Loyiha egasining ma’lumotiga köra, qariyb 10 mediator bilan dastlabki suhbat ötkazilgan va şu muammolar takrorlangan. Bu sifatli dastlabki kuzatuvdir. Intervyu bayonnomalari va hududlar kesimidagi tasdiq pilot dalillariga qöşiladi.
 
-## O‘zbekiston bozoriga oid dalillar
+## Özbekiston bozoriga oid dalillar
 
-| Ko‘rsatkich | Davr | Mazmuni |
+| Körsatkiç | Davr | Mazmuni |
 | --- | --- | --- |
-| 649 652 ta | 2025-yil | Sudlar ko‘rib chiqqan fuqarolik ishlari |
-| 206 399 ta | 2025-yil | Bitimlar, jumladan oldi-sotdi, kredit va qarzga oid ishlar |
-| 18 411 ta | 2026-yil I yarmi | Tuzilgan mediativ kelishuvlar |
+| 649 652 ta | 2025-yil | Sudlar körib çiqqan fuqarolik işlari |
+| 206 399 ta | 2025-yil | Bitimlar, jumladan oldi-sotdi, kredit va qarzga oid işlar |
+| 18 411 ta | 2026-yil I yarmi | Tuzilgan mediativ kelişuvlar |
 
-Sud statistikasi talab ko‘lamini o‘rganishga yordam beradi. Nizoning mediatsiyaga mosligi uning turi, ishtirokchilari va huquqiy shartlariga bog‘liq. Har bir raqam o‘z davri bilan ishlatiladi. [Oliy sudning 2025-yil hisoboti](https://sud.uz/news-2026-01-07-1/), [Adliya vazirligining 2026-yil 4-sentabr xabari](https://gov.uz/en/adliya/news/view/215503)
+Sud statistikasi talab kölamini örganişga yordam beradi. Nizoning mediatsiyaga mosligi uning turi, iştirokçilari va huquqiy şartlariga boğliq. Har bir raqam öz davri bilan işlatiladi. [Oliy sudning 2025-yil hisoboti](https://sud.uz/news-2026-01-07-1/), [Adliya vazirligining 2026-yil 4-sentabr xabari](https://gov.uz/en/adliya/news/view/215503)
 
 ## TAM, SAM va SOM
 
-| Bosqich | Kelishuv uchun ta’rif | Hisob holati |
+| Bosqiç | Kelişuv uçun ta’rif | Hisob holati |
 | --- | --- | --- |
-| TAM | O‘zbekiston bo‘yicha mediatsiyaga mos nizolar va ularga ko‘rsatiladigan xizmatlar | 206 399 ta bitimga oid sud ishi talab uchun tayanch. Moslik ulushi va sudga chiqmagan nizolar hajmi qo‘shimcha o‘rganiladi |
-| SAM | Toshkent shahri va viloyatidagi qarz, kredit va shartnoma nizolari, masofaviy xizmatga tayyor fuqarolar va kichik biznes | Hududiy nizo statistikasi, xizmat narxlari va masofaviy xizmatga tayyorlik pilotda o‘lchanadi |
-| SOM | 3 oyda 1 MFO va 10–15 mediator bilan 100–200 ta ishli pilot | Boshlang‘ich qamrov maqsadi |
+| TAM | Özbekiston böyiça mediatsiyaga mos nizolar va ularga körsatiladigan xizmatlar | 206 399 ta bitimga oid sud işi talab uçun tayanç. Moslik uluşi va sudga çiqmagan nizolar hajmi qöşimça örganiladi |
+| SAM | Toşkent şahri va viloyatidagi qarz, kredit va şartnoma nizolari, masofaviy xizmatga tayyor fuqarolar va kiçik biznes | Hududiy nizo statistikasi, xizmat narxlari va masofaviy xizmatga tayyorlik pilotda ölçanadi |
+| SOM | 3 oyda 1 MFO va 10–15 mediator bilan 100–200 ta işli pilot | Boşlanğiç qamrov maqsadi |
 
-SAM hisobi hududdagi mos nizolar sonini xizmatdan foydalanishga tayyor ulushga ko‘paytiradi. SOMni hisoblashda mediatorlarning ish sig‘imi, ikkinchi tarafning qo‘shilishi va pullik xizmatga o‘tish ulushi qo‘llanadi.
+SAM hisobi hududdagi mos nizolar sonini xizmatdan foydalanişga tayyor uluşga köpaytiradi. SOMni hisoblaşda mediatorlarning iş siğimi, ikkinçi tarafning qöşilişi va pullik xizmatga ötiş uluşi qöllanadi.
 
-### Milliy talab uchun sezgirlik hisobi
+### Milliy talab uçun sezgirlik hisobi
 
-Modelda 206 399 ta bitim ishi, 800 000 so‘mlik gonorar va 15% platforma haqi olindi. 10%, 20% va 30% moslik ulushlari tekshiriladigan farazlardir. Hisobdagi barcha mos ishlar platforma orqali pullik yakunlanishi shart deb olingan. O‘zlashtirish va to‘lov koeffitsiyentlarini pilot o‘lchaydi.
+Modelda 206 399 ta bitim işi, 800 000 sömlik gonorar va 15% platforma haqi olindi. 10%, 20% va 30% moslik uluşlari tekşiriladigan farazlardir. Hisobdagi barça mos işlar platforma orqali pullik yakunlanişi şart deb olingan. Özlaştiriş va tölov koeffitsiyentlarini pilot ölçaydi.
 
-| Moslik farazi | Ishlar soni, yaxlitlangan | Xizmatlar yalpi qiymati | Platformaning yalpi tushum salohiyati |
+| Moslik farazi | Işlar soni, yaxlitlangan | Xizmatlar yalpi qiymati | Platformaning yalpi tuşum salohiyati |
 | --- | --- | --- | --- |
-| 10% | 20 640 | 16,512 mlrd so‘m | 2,4768 mlrd so‘m |
-| 20% | 41 280 | 33,024 mlrd so‘m | 4,9536 mlrd so‘m |
-| 30% | 61 920 | 49,536 mlrd so‘m | 7,4304 mlrd so‘m |
+| 10% | 20 640 | 16,512 mlrd söm | 2,4768 mlrd söm |
+| 20% | 41 280 | 33,024 mlrd söm | 4,9536 mlrd söm |
+| 30% | 61 920 | 49,536 mlrd söm | 7,4304 mlrd söm |
 
-Ssenariy farazlarning hisobga ta’sirini ko‘rsatadi. Tijorat prognozi uchun tasdiqlangan moslik, bozor ulushi, to‘langan xizmatlar va mijoz jalb qilish xarajatlari kerak.
+Ssenariy farazlarning hisobga ta’sirini körsatadi. Tijorat prognozi uçun tasdiqlangan moslik, bozor uluşi, tölangan xizmatlar va mijoz jalb qiliş xarajatlari kerak.
 
-## Mahalliy va xalqaro yechimlar
+## Mahalliy va xalqaro yeçimlar
 
-| Yechim | Rasmiy tavsifdagi asosiy imkoniyat | Kelishuv uchun o‘rganiladigan jihat |
+| Yeçim | Rasmiy tavsifdagi asosiy imkoniyat | Kelişuv uçun örganiladigan jihat |
 | --- | --- | --- |
-| LexAI | Huquqiy savol-javob, hujjat konstruktori va huquqiy tahlil | Manbaga bog‘langan tushunarli javoblar |
-| Adliya mediatorlar reyestri | Mediator profili, ixtisosligi va aloqa ma’lumotlari | Malaka va profilni tekshirish |
-| ADR Solve | Dastlabki baholash, tarafni taklif qilish, professional mediator bilan online sessiya | Xizmatga kirish va sessiya jarayoni |
-| ODR.com | Sudlar, mediatorlar va tashkilotlar uchun sozlanadigan ODR platformalari | Institutsional ish jarayoni va B2B model |
-| Smartsettle | ONE va Infinity orqali raqamli muzokara vositalari | Kelishuv variantlarini muvofiqlashtirish |
-| Jupitice | Ishlar, tinglovlar va hujjatlarni boshqaruvchi raqamli adliya infratuzilmasi | Turli rollar uchun ish maydoni |
+| LexAI | Huquqiy savol-javob, hujjat konstruktori va huquqiy tahlil | Manbaga boğlangan tuşunarli javoblar |
+| Adliya mediatorlar reyestri | Mediator profili, ixtisosligi va aloqa ma’lumotlari | Malaka va profilni tekşiriş |
+| ADR Solve | Dastlabki baholaş, tarafni taklif qiliş, professional mediator bilan online sessiya | Xizmatga kiriş va sessiya jarayoni |
+| ODR.com | Sudlar, mediatorlar va taşkilotlar uçun sozlanadigan ODR platformalari | Institutsional iş jarayoni va B2B model |
+| Smartsettle | ONE va Infinity orqali raqamli muzokara vositalari | Kelişuv variantlarini muvofiqlaştiriş |
+| Jupitice | Işlar, tinglovlar va hujjatlarni boşqaruvçi raqamli adliya infratuzilmasi | Turli rollar uçun iş maydoni |
 
-Taqqoslash rasmiy tavsiflarga tayangan. Kelishuv o‘zbek tilidagi interfeys, Lex.uzga bog‘langan tahlil va mahalliy mediatorlar bilan ikki tarafli ish jarayonini birlashtiradi. [LexAI](https://ai.lex.uz/about), [Adliya reyestri](https://gov.uz/oz/adliya/sections/professional-mediatorlar-reyestri), [ADR Solve](https://solve.adrcenter.com/en/), [ODR.com](https://odr.com/), [Smartsettle](https://www.smartsettle.com/), [Jupitice](https://jupitice.com/)
+Taqqoslaş rasmiy tavsiflarga tayangan. Kelişuv özbek tilidagi interfeys, Lex.uzga boğlangan tahlil va mahalliy mediatorlar bilan ikki tarafli iş jarayonini birlaştiradi. [LexAI](https://ai.lex.uz/about), [Adliya reyestri](https://gov.uz/oz/adliya/sections/professional-mediatorlar-reyestri), [ADR Solve](https://solve.adrcenter.com/en/), [ODR.com](https://odr.com/), [Smartsettle](https://www.smartsettle.com/), [Jupitice](https://jupitice.com/)
 
-Loyiha egasi Dedox nomli mahalliy xizmatni ham tilga olgan. Uning aniq rasmiy manzili, amaldagi funksiyalari va tariflarini tasdiqlash raqobat tadqiqotining keyingi vazifasidir.
+Loyiha egasi Dedox nomli mahalliy xizmatni ham tilga olgan. Uning aniq rasmiy manzili, amaldagi funksiyalari va tariflarini tasdiqlaş raqobat tadqiqotining keyingi vazifasidir.
 
-## Daromad modeli va bir ish iqtisodi
+## Daromad modeli va bir iş iqtisodi
 
-Mediator o‘z xizmatiga qat’iy narx belgilaydi, taraflar xizmat hajmi va haqini oldindan kelishadi. Boshlang‘ich model ushbu haqdan 15% platforma ulushini hisoblaydi. Fuqaro yoki biznes AI yordamida hujjat tayyorlash uchun 19 000, 29 000 yoki 49 000 so‘mlik tarifdan foydalanadi. Bank va MFO kabinetlari uchun obuna yoki ish boshiga to‘lov pilotdagi narx tadqiqotiga kiradi.
+Mediator öz xizmatiga qat’iy narx belgilaydi, taraflar xizmat hajmi va haqini oldindan kelişadi. Boşlanğiç model uşbu haqdan 15% platforma uluşini hisoblaydi. Fuqaro yoki biznes AI yordamida hujjat tayyorlaş uçun 19 000, 29 000 yoki 49 000 sömlik tarifdan foydalanadi. Bank va MFO kabinetlari uçun obuna yoki iş boşiga tölov pilotdagi narx tadqiqotiga kiradi.
 
-| Bitta ish ssenariysi | Summa |
+| Bitta iş ssenariysi | Summa |
 | --- | --- |
-| Namunaviy mediator haqi | 800 000 so‘m |
-| Platforma tushumi, 15% | 120 000 so‘m |
-| Taxminiy o‘zgaruvchan xarajat | 25 000 so‘m |
-| Marjinal foyda | 95 000 so‘m |
+| Namunaviy mediator haqi | 800 000 söm |
+| Platforma tuşumi, 15% | 120 000 söm |
+| Taxminiy özgaruvçan xarajat | 25 000 söm |
+| Marjinal foyda | 95 000 söm |
 
-Gonorar va xarajat sinov farazlaridir. Doimiy xarajatlar, soliqlar, qaytarishlar va mijoz jalb qilish xarajatlari yakuniy rentabellik hisobida alohida qo‘llanadi. Oylik doimiy xarajatni `F` deb olsak, faqat ushbu marja bilan qoplash uchun pullik ishlar soni `ceil(F / 95 000)` bo‘ladi.
+Gonorar va xarajat sinov farazlaridir. Doimiy xarajatlar, soliqlar, qaytarişlar va mijoz jalb qiliş xarajatlari yakuniy rentabellik hisobida alohida qöllanadi. Oylik doimiy xarajatni `F` deb olsak, faqat uşbu marja bilan qoplaş uçun pullik işlar soni `ceil(F / 95 000)` böladi.
 
-Platforma xizmati, mediator gonorari va qaytarish shartlari yozma kelishuvlarda belgilanadi. Mediatsiya qonunchiligi ixtiyoriylik va maxfiylik tamoyillarini belgilaydi. [Mediatsiya to‘g‘risidagi qonun](https://lex.uz/docs/-3805227)
+Platforma xizmati, mediator gonorari va qaytariş şartlari yozma kelişuvlarda belgilanadi. Mediatsiya qonunçiligi ixtiyoriylik va maxfiylik tamoyillarini belgilaydi. [Mediatsiya töğrisidagi qonun](https://lex.uz/docs/-3805227)
 
-## Bosqichlar va KPI
+## Bosqiçlar va KPI
 
-| Muddat | Maqsad | O‘lchov |
+| Muddat | Maqsad | Ölçov |
 | --- | --- | --- |
-| Hozir | Ishlaydigan MVP va dastlabki mediator suhbatlari | Ikki tarafli jarayonning amaliy namoyishi |
-| 3 oy | 10–15 mediator, 1 MFO, 100–200 ta ishli pilot | Ikkinchi taraf qo‘shilishi, mediatsiya, kelishuv va to‘langan summa |
-| 6–12 oy | Bank va B2B kabinetlari, hududiy hamkorlar | Pullik ishlar, takroriy foydalanish, ish marjasi va mijoz jalb qilish narxi |
-| 3 yil | Respublika bo‘ylab xizmat qamrovi | Faol hududlar va mediatorlar, bajarilgan kelishuvlar ulushi |
+| Hozir | Işlaydigan MVP va dastlabki mediator suhbatlari | Ikki tarafli jarayonning amaliy namoyişi |
+| 3 oy | 10–15 mediator, 1 MFO, 100–200 ta işli pilot | Ikkinçi taraf qöşilişi, mediatsiya, kelişuv va tölangan summa |
+| 6–12 oy | Bank va B2B kabinetlari, hududiy hamkorlar | Pullik işlar, takroriy foydalaniş, iş marjasi va mijoz jalb qiliş narxi |
+| 3 yil | Respublika böylab xizmat qamrovi | Faol hududlar va mediatorlar, bajarilgan kelişuvlar uluşi |
 
-Keyingi hajmlar va investitsiya ehtiyoji pilot natijalariga asoslanadi. Bank yoki MFO bilan yozma pilot kelishuvi, mediatorlar narxlari va takroriy foydalanish natijalari tijorat modelini aniqlashtiradi.
+Keyingi hajmlar va investitsiya ehtiyoji pilot natijalariga asoslanadi. Bank yoki MFO bilan yozma pilot kelişuvi, mediatorlar narxlari va takroriy foydalaniş natijalari tijorat modelini aniqlaştiradi.
 
-## Jamoa va hamkorlik so‘rovi
+## Jamoa va hamkorlik sörovi
 
-Abduxoliq Solijonov mahsulot va MVP yo‘nalishini olib boradi. Huquqshunos va professional mediatorlar bilan hamkorlik shakllanmoqda. Aniq so‘rov Toshkentda 10–15 mediator va 100–200 ta ishli sinovga tayyor bitta MFO pilot hamkoridir.
+Abduxoliq Solijonov mahsulot va MVP yönalişini olib boradi. Huquqşunos va professional mediatorlar bilan hamkorlik şakllanmoqda. Aniq sörov Toşkentda 10–15 mediator va 100–200 ta işli sinovga tayyor bitta MFO pilot hamkoridir.
 
 ## Arxitektura va AI holati
 
-Joriy MVPning asosiy yo‘li Next.js API, Ollama, Qwen3-VL-8B, Orama BM25 va BGE-M3dan foydalanadi. FastAPI/Qdrant, PostgreSQL va boshqa xizmatlar uchun ixtiyoriy konfiguratsiya mavjud. Ushbu yo‘llarni ishga tushirish tegishli servislar va sozlamalarga bog‘liq.
+Joriy MVPning asosiy yöli Next.js API, Ollama, Qwen3-VL-8B, Orama BM25 va BGE-M3dan foydalanadi. FastAPI/Qdrant, PostgreSQL va boşqa xizmatlar uçun ixtiyoriy konfiguratsiya mavjud. Uşbu yöllarni işga tuşiriş tegişli servislar va sozlamalarga boğliq.
 
-Loyiha egasi yuborgan sxema FastAPI/Qdrant bilan kengayadigan variantni ifodalaydi. Undagi PDF/OCR, LLM/RAG va ma’lumotlar bazasi qatlamlari texnik muhokama uchun tayanch bo‘ladi.
+Loyiha egasi yuborgan sxema FastAPI/Qdrant bilan kengayadigan variantni ifodalaydi. Undagi PDF/OCR, LLM/RAG va ma’lumotlar bazasi qatlamlari texnik muhokama uçun tayanç böladi.
 
 ## Ikki daqiqalik demo rejasi
 
-| Vaqt | Ko‘rsatiladigan amal |
+| Vaqt | Körsatiladigan amal |
 | --- | --- |
 | 0:00–0:25 | Yangi nizo, talab summasi va dalil |
-| 0:25–0:50 | Shaxsiy taklif orqali ikkinchi tarafning qo‘shilishi |
-| 0:50–1:15 | Lex.uz manbali AI javobi va mediator ish maydoni |
-| 1:15–1:45 | Kelishuv hujjati, o‘qish va qo‘lda imzolash |
-| 1:45–2:00 | To‘lov hisoboti va bajarilish tarixi |
+| 0:25–0:50 | Şaxsiy taklif orqali ikkinçi tarafning qöşilişi |
+| 0:50–1:15 | Lex.uz manbali AI javobi va mediator iş maydoni |
+| 1:15–1:45 | Kelişuv hujjati, öqiş va qölda imzolaş |
+| 1:45–2:00 | Tölov hisoboti va bajariliş tarixi |
 
-## Hakam savollariga tayanch javoblar
+## Hakam savollariga tayanç javoblar
 
-**Nega mediatorga telefon qilish bilan cheklanilmaydi?** Kelishuv taklif, ikki mustaqil bayon, dalillar, maxfiy muloqot, hujjat va bajarish tarixini bir ishda yuritadi.
+**Nega mediatorga telefon qiliş bilan çeklanilmaydi?** Kelişuv taklif, ikki mustaqil bayon, dalillar, maxfiy muloqot, hujjat va bajariş tarixini bir işda yuritadi.
 
-**Ikkinchi taraf qatnashmasa nima bo‘ladi?** Ishtirok ixtiyoriy. Murojaat egasi hujjat tayyorlash xizmatidan foydalanishi va murojaatini qaytarib olishi mumkin.
+**Ikkinçi taraf qatnaşmasa nima böladi?** Iştirok ixtiyoriy. Murojaat egasi hujjat tayyorlaş xizmatidan foydalanişi va murojaatini qaytarib olişi mumkin.
 
-**AI xatosini qanday boshqarasiz?** Javob manbalarga bog‘lanadi, ruxsatlar serverda tekshiriladi, hujjatni taraflar va mediator ko‘rib chiqadi. Yakuniy kelishuv inson ishtirokida tasdiqlanadi.
+**AI xatosini qanday boşqarasiz?** Javob manbalarga boğlanadi, ruxsatlar serverda tekşiriladi, hujjatni taraflar va mediator körib çiqadi. Yakuniy kelişuv inson iştirokida tasdiqlanadi.
 
-**Qachon foydaga chiqasiz?** Pilot pullik ishlar soni, xarajat va mijoz jalb qilish narxini o‘lchaydi. Shu ko‘rsatkichlar doimiy xarajatlar bilan birga zararsizlik muddatini belgilaydi.
+**Qaçon foydaga çiqasiz?** Pilot pullik işlar soni, xarajat va mijoz jalb qiliş narxini ölçaydi. Şu körsatkiçlar doimiy xarajatlar bilan birga zararsizlik muddatini belgilaydi.
