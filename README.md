@@ -4,9 +4,9 @@
 
 ## Xakaton taqdimoti
 
-[PowerPoint’ni yuklaş](presentations/Kelishuv-hackathon-final.pptx) · [PDF’ni köriş](presentations/Kelishuv-hackathon-final.pdf)
+[Yakuniy taqdimot PDF](presentations/Kelishuv-hackathon-final.pdf)
 
-Yakuniy taqdimotning 12 ta slaydi quyida ketma-ket berilgan.
+Quyidagi 12 ta slayd yuborilgan yakuniy PDF’dan olingan.
 
 ![KELIŞUV AI taqdimoti, 1-slayd](presentations/submission/slide-01.png)
 
@@ -156,7 +156,6 @@ Natijalar şu loyiha versiyasi va körsatilgan avtomatlaştirilgan tekşiruvlar 
 
 ## Materiallar
 
-- [Yakuniy PowerPoint](presentations/Kelishuv-hackathon-final.pptx)
 - [Yakuniy taqdimot PDF](presentations/Kelishuv-hackathon-final.pdf)
 - [Biznes modeli va raqobat dalillari](docs/PITCH_EVIDENCE.md)
 - [8 sahifali rasmli PDF](Kelishuv-platforma.pdf)
