@@ -8,6 +8,18 @@ O‘zbekiston uchun mediatsiya, huquqiy yo‘naltirish va kelishuvni rasmiylasht
 
 Muallif va loyiha egasi **Abduxoliq Solijonov**. 2026-yil 21-noyabr holati. Ushbu ommaviy repozitoriy loyiha taqdimoti, interfeys rasmlari va arxitektura materiallarini jamlaydi. Dastur manba kodi private repozitoriyda saqlanadi. Namoyish havolasi kompyuter va tunnel ishlayotgan paytda faol.
 
+## 3 daqiqalik final taqdimoti
+
+[PowerPoint’ni yuklash](presentations/Kelishuv-LexHackathon-2026.pptx) · [PDF ko‘rinishi](presentations/Kelishuv-LexHackathon-2026.pdf) · [Biznes modeli va manbalar](docs/PITCH_EVIDENCE.md)
+
+![Kelishuvning sakkiz slaydli taqdimoti](assets/pitch-overview.png)
+
+Sakkizta minimal slaydda mahsulot, uchta muammo, TAM/SAM/SOM, mahalliy va xalqaro yechimlar, 15% model, bir ish iqtisodi, KPI hamda jamoa yoritilgan. 180 soniyaga mo‘ljallangan o‘zbekcha nutq PowerPoint izohlarida berilgan. Xakatonning taqdim etilgan qoidalari finalda 3 daqiqa nutq, 2 daqiqa demo va 2 daqiqa savol-javobni belgilaydi.
+
+Loyiha egasining ma’lumotiga ko‘ra, qariyb 10 mediator bilan dastlabki muammo suhbatlari o‘tkazilgan. Bozor dalillari Oliy sud va Adliya vazirligining manbalariga tayangan. TAM/SAM bo‘yicha hisob usuli, tekshiriladigan farazlar va pilot maqsadlari manbalar hujjatida izohlangan.
+
+Mediator o‘z xizmat narxini belgilaydi. Boshlang‘ich model 15% platforma ulushini hisoblaydi. Namunaviy 800 000 so‘mlik gonorardan 120 000 so‘m tushum, 25 000 so‘m o‘zgaruvchan xarajat farazida 95 000 so‘m marjinal foyda chiqadi. Pilot narx va xarajat farazlarini tekshiradi.
+
 ## Platforma nima qiladi
 
 Foydalanuvchi muammoni yozadi va dalillarini yuklaydi. Qarshi taraf o‘z hisobidan bayonini kiritadi. Tizim huquqiy manbalarni ko‘rsatadi, navbatdagi kelishuv takliflarini beradi va taraflar roziligiga ko‘ra shahar hamda ixtisoslikka mos mediator bilan ishlashni tashkil etadi.
@@ -59,6 +71,13 @@ Asosiy lokal yo‘l Next.js 15, React 18 va TypeScript interfeysini server APIla
 | Hujjatlar | PDF, DOCX, qo‘lda imzo, versiyalar, audit, ijro rejasi |
 | Ixtiyoriy infratuzilma | PostgreSQL, Redis, S3/MinIO, FastAPI/Qdrant |
 
+
+### FastAPI va Qdrant varianti
+
+![Loyiha egasi yuborgan kengaytiriladigan arxitektura sxemasi](assets/architecture-fastapi-reference.png)
+
+Sxema ixtiyoriy FastAPI/Qdrant infratuzilma variantini ko‘rsatadi. Joriy MVPning asosiy yo‘li Next.js API, lokal Ollama, Orama BM25 va BGE-M3 orqali ishlaydi. FastAPI/Qdrant va PostgreSQL servislarini ishga tushirish tegishli konfiguratsiyaga bog‘liq.
+
 ## Yordamchining yangi imkoniyatlari
 
 Kabinetdagi “AI yordamchi” har bir hisobga jami 10 ta bepul so‘rov ajratadi. Orama BM25 va lokal BGE-M3 qidiruv modeli topgan moddalar Lex.uz dagi joriy matn bilan tekshiriladi. Qwen manba identifikatorlariga bog‘langan javob yaratadi. Saqlangan korpusning dastlabki sanasi 2026-yil iyul. Jonli tekshiruv bajarilmagan manba kartasida saqlangan nusxa belgisi ko‘rinadi. [Orama](https://github.com/oramasearch/orama), [BGE-M3](https://ollama.com/library/bge-m3), [CC0 huquqiy korpus](https://github.com/javohirmat/uzbek-legal-corpus)
@@ -106,7 +125,7 @@ Eskiz SMS, Face ID bridge, Payme Merchant API va Zoom OAuth adapterlari tayyorla
 
 ## Tekshiruv natijalari
 
-- 59 ta saqlangan regressiya testi o‘tdi.
+- 64 ta saqlangan regressiya testi o‘tdi.
 - So‘nggi kengaytma uchun ikki hisobli 8 ta brauzer jarayoni tekshirildi.
 - Yangi sahifalardagi 18 ta avtomatik WCAG auditida nol xato qaytdi.
 - Production build, TypeScript va ESLint tekshiruvlari o‘tdi.
@@ -117,6 +136,9 @@ Natijalar shu loyiha versiyasi va ko‘rsatilgan avtomatlashtirilgan tekshiruvla
 
 ## Materiallar
 
+- [3 daqiqalik PowerPoint](presentations/Kelishuv-LexHackathon-2026.pptx)
+- [3 daqiqalik taqdimot PDF](presentations/Kelishuv-LexHackathon-2026.pdf)
+- [Biznes modeli va raqobat dalillari](docs/PITCH_EVIDENCE.md)
 - [8 sahifali rasmli PDF](Kelishuv-platforma.pdf)
 - [Arxitektura rasmi](assets/architecture.png)
 - [Lokal AI oqimi](assets/local-ai.png)
