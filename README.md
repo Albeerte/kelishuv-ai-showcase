@@ -4,7 +4,7 @@ O‘zbekiston uchun mediatsiya, huquqiy yo‘naltirish va kelishuvni rasmiylasht
 
 ![Kelishuv taqdimot sahifasi](assets/landing.png)
 
-[Rasmli PDFni yuklash](Kelishuv-platforma.pdf) · [Namoyishni ochish](https://setting-spouse-interested-tar.trycloudflare.com/welcome) · [Arxitektura rasmi](assets/architecture.png)
+[Rasmli PDFni yuklash](Kelishuv-platforma.pdf) · [Namoyishni ochish](https://armadillo-writing-sanctuary.ngrok-free.dev/welcome) · [Arxitektura rasmi](assets/architecture.png)
 
 Muallif va loyiha egasi **Abduxoliq Solijonov**. 2026-yil 21-noyabr holati. Ushbu ommaviy repozitoriy loyiha taqdimoti, interfeys rasmlari va arxitektura materiallarini jamlaydi. Dastur manba kodi private repozitoriyda saqlanadi. Namoyish havolasi kompyuter va tunnel ishlayotgan paytda faol.
 
@@ -54,10 +54,18 @@ Asosiy lokal yo‘l Next.js 15, React 18 va TypeScript interfeysini server APIla
 | Interfeys | Next.js 15, React 18, TypeScript, Tailwind, Radix, Zustand |
 | Server | Next.js API, NextAuth, Zod, rol va rozilik nazorati |
 | Mahalliy model | Ollama, `qwen3-vl:8b-instruct`, matn va tasvir ishlovi |
-| Huquqiy katalog | 11 ta rasmiy hujjatdan 33 ta tanlangan modda, manba, sana va xesh |
+| Huquqiy RAG | 25 hujjatdagi 7 368 modda, Orama BM25, lokal BGE-M3, Lex.uz jonli tekshiruvi |
 | Saqlash | AES-256-GCM bilan shifrlangan yozuvlar va fayllar, scrypt parol xeshlari |
 | Hujjatlar | PDF, DOCX, qo‘lda imzo, versiyalar, audit, ijro rejasi |
 | Ixtiyoriy infratuzilma | PostgreSQL, Redis, S3/MinIO, FastAPI/Qdrant |
+
+## Yordamchining yangi imkoniyatlari
+
+Kabinetdagi “AI yordamchi” har bir hisobga jami 10 ta bepul so‘rov ajratadi. Orama BM25 va lokal BGE-M3 qidiruv modeli topgan moddalar Lex.uz dagi joriy matn bilan tekshiriladi. Qwen manba identifikatorlariga bog‘langan javob yaratadi. Saqlangan korpusning dastlabki sanasi 2026-yil iyul. Jonli tekshiruv bajarilmagan manba kartasida saqlangan nusxa belgisi ko‘rinadi. [Orama](https://github.com/oramasearch/orama), [BGE-M3](https://ollama.com/library/bge-m3), [CC0 huquqiy korpus](https://github.com/javohirmat/uzbek-legal-corpus)
+
+Oliy sudning ochiq maqolalari va Lex.uz dagi Plenum qarorlari qo‘shimcha dalil beradi. Individual sud qarorlari bazasiga ulanish ushbu muhitda tekshirilmadi. [Oliy sud](https://sud.uz/), [Fuqarolik ishlari bo‘yicha Plenum qarorlari](https://sud.uz/la/plenum-la/documents-civil-la/)
+
+Taklif havolalari to‘liq HTTPS manzili bilan yaratiladi. Qarshi taraf taklifdagi telefon yoki emailga mos hisob orqali qo‘shiladi. Murojaatni qaytarib olish va mustaqil kelishuv sababli yopish mavjud. Qarshi taraf qo‘shilgan bo‘lsa, mustaqil kelishuvni ikkala taraf tasdiqlaydi.
 
 ## Ishlatilgan lokal model
 
@@ -73,9 +81,9 @@ Amaldagi lokal ishga tushirish konfiguratsiyasi Ollama orqali `qwen3-vl:8b-instr
 
 ## Huquqiy manbalar bilan ishlash
 
-Amaldagi katalog 11 ta rasmiy hujjatdan olingan 33 ta tanlangan moddani saqlaydi. Har bir yozuvda asl Lex.uz havolasi, modda, tahrir yoki tekshiruv sanasi va kontent xeshi mavjud. Katalogning qayd etilgan holati 2026-yil 20-noyabr. Yangilash jarayoni manba olish, matn ajratish, tekshirish va katalog yoki vektor indeksiga tayyorlash bosqichlarini qamraydi. [Lex.uz](https://lex.uz/), [Mediatsiya to‘g‘risidagi qonun](https://lex.uz/docs/-3805227)
+Mediator ish maydonidagi yo‘naltirish katalogi 11 ta rasmiy hujjatdan olingan 33 ta tanlangan moddani saqlaydi. Har bir yozuvda asl Lex.uz havolasi, modda, tahrir yoki tekshiruv sanasi va kontent xeshi mavjud. Katalogning qayd etilgan holati 2026-yil 20-noyabr. Yangilash jarayoni manba olish, matn ajratish, tekshirish va katalog yoki vektor indeksiga tayyorlash bosqichlarini qamraydi. [Lex.uz](https://lex.uz/), [Mediatsiya to‘g‘risidagi qonun](https://lex.uz/docs/-3805227)
 
-Yordamchi javobda katalogdagi manbalarni ko‘rsatadi. Taraflar bayoni, hujjatlari va kelishuvni yakunlash mediatorning ish maydonida ko‘rib chiqiladi. Ommaviy namoyish yordamchisi katalog va qoidaviy rejimda ishlaydi.
+Yordamchi javobda katalogdagi manbalarni ko‘rsatadi. Taraflar bayoni, hujjatlari va kelishuvni yakunlash mediatorning ish maydonida ko‘rib chiqiladi. Ommaviy namoyish yordamchisi 25 hujjat va 7 368 moddali korpus, BGE-M3 va BM25 qidiruvi, Lex.uz jonli matnlari va lokal Qwen orqali ishlaydi. Model izohidagi raqamlar va foizlar tegishli manbada uchrashi tekshiriladi.
 
 ## Hujjatlar va xizmat modeli
 
@@ -98,7 +106,7 @@ Eskiz SMS, Face ID bridge, Payme Merchant API va Zoom OAuth adapterlari tayyorla
 
 ## Tekshiruv natijalari
 
-- 45 ta saqlangan regressiya testi o‘tdi.
+- 59 ta saqlangan regressiya testi o‘tdi.
 - So‘nggi kengaytma uchun ikki hisobli 8 ta brauzer jarayoni tekshirildi.
 - Yangi sahifalardagi 18 ta avtomatik WCAG auditida nol xato qaytdi.
 - Production build, TypeScript va ESLint tekshiruvlari o‘tdi.
